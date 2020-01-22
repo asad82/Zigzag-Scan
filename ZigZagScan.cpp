@@ -1,5 +1,12 @@
 // ZigZagScan.cpp : Defines the entry point for the console application.
-//
+/***************************************************************************
+    begin                : Dec 8 2005
+    copyright            : (C) 2005 by Asad Ali
+    email                : asad_82@yahoo.com
+ ***************************************************************************/
+
+// Programmed by Asad Ali
+// sites.google.com/site/asad82
 
 #include "stdafx.h"
 #include "ZigZagScan.h"
